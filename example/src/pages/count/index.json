@@ -1,0 +1,7 @@
+{
+  "enableWK": "YES",
+  "enableDSL": true,
+  "usingComponents": {
+    "increase-view":"./increase/index"
+  }
+}

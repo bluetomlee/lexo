@@ -1,0 +1,3 @@
+<view class="count-wrap">
+  <view onTap="add">{{ video.count }} </view>
+</view>

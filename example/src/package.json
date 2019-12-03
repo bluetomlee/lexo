@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "ayarn-install": "ayarn install"
+  },
+  "dependencies": {
+    "@ali/lexo": "0.0.1",
+    "@alipay/tracert-ta": "^0.1.5",
+    "anima-querystring": "~1.0.0"
+  }
+}
